@@ -1,10 +1,7 @@
 {
   "name": "bingo-builder",
   "version": "0.0.1",
-  "author": {
-    "name": "dazhi",
-    "email": "dazhi@aimeizhuyi.com"
-  },
+  "author": "dazhi <dazhi@aimeizhuyi.com>",
   "private": true,
   "scripts": {},
   "dependencies": {
@@ -17,5 +14,19 @@
     "minimize": "^0.8.1",
     "sqwish": "^0.2.2"
   },
-  "main": "./lib/bingo-builder"
+  "main": "./lib/bingo-builder",
+  "description": "code merge",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangwenzhi/bingo-builder.git"
+  },
+  "keywords": [
+    "bingo-builder"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangwenzhi/bingo-builder/issues"
+  },
+  "homepage": "https://github.com/yangwenzhi/bingo-builder#readme"
 }
