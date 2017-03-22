@@ -1,0 +1,21 @@
+{
+  "name": "bingo-builder",
+  "version": "0.0.1",
+  "author": {
+    "name": "dazhi",
+    "email": "dazhi@aimeizhuyi.com"
+  },
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "request": "^2.40.0",
+    "fs-extra": "^0.11.0",
+    "format": "^0.2.1",
+    "uglify-js": "^2.4.15",
+    "mime": "^1.2.11",
+    "dot": "^1.0.2",
+    "minimize": "^0.8.1",
+    "sqwish": "^0.2.2"
+  },
+  "main": "./lib/bingo-builder"
+}
