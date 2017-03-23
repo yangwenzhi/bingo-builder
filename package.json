@@ -2,7 +2,6 @@
   "name": "bingo-builder",
   "version": "0.0.1",
   "author": "dazhi <dazhi@aimeizhuyi.com>",
-  "private": true,
   "scripts": {},
   "dependencies": {
     "request": "^2.40.0",
